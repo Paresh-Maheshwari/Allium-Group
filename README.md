@@ -9,7 +9,7 @@ This repository contains various research documents, case studies and docs relat
 ## Repository Structure
 This repository is organized as follows:
 
-- **/research:** This directory contains research papers and resources related to attacks on the OSI model.
-- **/case-studies:** Here, you will find individual folders for each case study, including the analysis, impact assessment, and countermeasures.
-- **/docs:** Additional project-related documents and resources can be found here.
+- **/Research Papers:** This directory contains research papers and resources related to attacks on the OSI model.
+- **/Case Studies:** Here, you will find individual folders for each case study, including the analysis, impact assessment, and countermeasures.
+- **/Docs:** Additional project-related documents and resources can be found here.
 - **report:** This is the comprehensive report . It will cover the attacks on the OSI model, their impacts, and mitigation strategies.
