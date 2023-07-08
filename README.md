@@ -11,4 +11,4 @@ This repository is organized as follows:
 
 - **/Research Papers:** This directory contains research papers and resources related to attacks on the OSI model. Open the [readme](https://github.com/sugamagr/Allium-Group/blob/main/Research%20Papers/Readme.md) file of directory for more details.
 - **/Case Studies:** Here, you will find individual folders for each case study, including the analysis, impact assessment, and countermeasures. Open the [readme](https://github.com/sugamagr/Allium-Group/blob/main/Case%20Studies/Readme.md) file of directory for more details.
-- **report:** This is the comprehensive report . It will cover the attacks on the OSI model, their impacts, and mitigation strategies.
+- **report:** This is the comprehensive **report** titled **"Allium Group Report on OSI Model Attacks"** . It will cover the attacks on the OSI model, their impacts, and mitigation strategies. And 2 case studies on 2 different attacks and their impact, consequences and mitigation strategies for various layers of the OSI Model.
