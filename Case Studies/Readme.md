@@ -1,6 +1,6 @@
 ## Description
 
-This folder has detailed case studies related to the project.
+This folder has detailed case studies related to the project. The details of various files and links to them are mentioned below.
 
 - [Lessons Learned from the SolarWinds Hack](https://www.acc.com/sites/default/files/2021-02/Lessons%20Learned%20from%20the%20SolarWinds%20Hack.pdf) - Carina Mendola, Brett Creasy
 - [SOLARWINDS BREACH – SUPPLY CHAIN ATTACK DETECTION](https://www.attivonetworks.com/wp-content/uploads/sites/13/documentation/Attivo_Networks-SolarWinds_Breach_Detection.pdf)
